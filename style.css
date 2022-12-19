@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+
+    
+    --ff-primary: 'Roboto', sans-serif;
+    --ff-secondary: 'Roboto Mono', monospace;
+    --text-color: #E1E1E6;
+
+    --hue: 194;
+    --primary-color: hsl(var(--hue), 72%, 13%);
+    --secondary-color: rgba(6, 22, 27, 0.5);
+    --tertiary-color: hsl(192, 65%, 7%);
+
+    --input-bg-color: hsl(191, 65%, 7%);
+    --input-color: #7C7C8A;
+    --dark-blue: hsl(195, 91%, 25%);
+    --light-blue: hsl(191, 31%, 42%);
+    --no-favs-bg-color: hsl(192, 63%, 3%);
+    --no-favs-color: #4E5455;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+body * {
+    font-family: var(--ff-primary)
+}
