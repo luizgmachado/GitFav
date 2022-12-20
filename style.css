@@ -80,6 +80,8 @@ header {
 
     background-color: var(--input-bg-color);
     color: var(--input-color);
+
+    box-shadow: 1rem 1rem 3rem 1rem rgba(121, 120, 120, 0.219);
 }
 
 .search button {
@@ -98,6 +100,8 @@ header {
     font-weight: 700;
     
     transition: all .7s ease;
+
+    box-shadow: 1rem 1rem 3rem 1rem rgba(121, 120, 120, 0.34);
 }
 
 .search button svg {
@@ -129,6 +133,8 @@ header {
 table {
     width: 100%;
     border-collapse: collapse;
+
+    box-shadow: 0 1rem 2rem -1rem rgba(255, 255, 255, 0.486);
 }
 
 table * {
