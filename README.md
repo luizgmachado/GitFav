@@ -13,9 +13,8 @@
 <br>
 
 <p align="center">
-  <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/214675406-d874c5dc-fe35-46fa-b9e6-f4f07a78a426.png" width="100%">
+  <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/214676033-3e19da1d-5494-4516-b0c6-de463c81f885.png" width="100%">
 </p>
-
 
 
 
