@@ -1,5 +1,7 @@
 import { GithubUser } from "./GithubUser.js"
 
+//classe que vai conter a lógica dos dados
+// como os dados serão estruturados
 export class Favorites {
 	constructor(root) {
 		this.root = document.querySelector(root)
@@ -37,6 +39,8 @@ export class Favorites {
 		}
 	}
 
+	//Higher-order functions (map, filter, find, reduce)
+	//programação funcional trabalha muito a imutabilidade de dados
 	delete(user) {
 		const filteredEntries = this.entries
 			.filter(entry => entry.login !== user.login)
@@ -46,7 +50,7 @@ export class Favorites {
 		this.save()
 	}
 }
-
+// classe que vai criar a visualização e eventos do HTML
 export class FavoritesView extends Favorites {
 	constructor(root) {
 		super(root)
