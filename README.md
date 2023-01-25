@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://user-images.githubusercontent.com/108701750/210898163-f5236932-9bb7-4448-8e99-84a9fdf6fd8e.png" width="100%">
+  <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/214675406-d874c5dc-fe35-46fa-b9e6-f4f07a78a426.png" width="100%">
 </p>
 
 
