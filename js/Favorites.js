@@ -1,3 +1,23 @@
+export class GithubUser {
+	static search(username) {
+		const endpoint = `https://api.github.com/users/${username}`
+
+		return fetch(endpoint)
+		.then(data => data.json())
+		.then((data) => {
+
+			const { login, name, public_repos, followers } = data
+			
+			return {
+				login,
+				name,
+				public_repos,
+				followers
+			}
+	  })
+	}
+}
+
 //classe que vai conter a lógica dos dados
 // como os dados serão estruturados
 export class Favorites {
@@ -19,10 +39,7 @@ export class Favorites {
 		this.update()
 	}
 }
-
-
 // classe que vai criar a visualização e eventos do HTML
-
 export class FavoritesView extends Favorites {
 	constructor(root) {
 		super(root)
