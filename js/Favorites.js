@@ -1,6 +1,6 @@
 import { GithubUser } from "./GithubUser.js"
 
-//classe que vai conter a lógica dos dados
+//classes que vai conter a lógica dos dados
 // como os dados serão estruturados
 export class Favorites {
 	constructor(root) {
