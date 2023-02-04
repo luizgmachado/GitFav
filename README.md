@@ -33,19 +33,19 @@ Essa aplicação busca perfils usando a API do GitHub, a ideia é você favorita
 
 A proposta foi colocarmos em prática todos esses conceitos:
 
--Consumo de API;
--Orientação a objetos;
--Manipulação da DOM;
--Conceitos da POO;
--Herança;
--Polimorfismo;
--Imutabilidade;
--Método filter();
--localStorage;
--Async Await;
--Try, catch e trow.
+- Consumo de API;
+- Orientação a objetos;
+- Manipulação da DOM;
+- Conceitos da POO;
+- Herança;
+- Polimorfismo;
+- Imutabilidade;
+- Método filter();
+- localStorage;
+- Async Await;
+- Try, catch e trow
 
-- [Acesse o projeto finalizado, online](https://gitfavorit.netlify.app/)
+* [Acesse o projeto finalizado, online](https://gitfavorit.netlify.app/)
 
 ## 🔖 Layout
 
