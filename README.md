@@ -45,7 +45,7 @@ A proposta foi colocarmos em prática todos esses conceitos:
 - Async Await;
 - Try, catch e trow
 
-* [Acesse o projeto finalizado, online](https://gitfavorit.netlify.app/)
+[Acesse o projeto finalizado, online](https://gitfavorit.netlify.app/)
 
 ## 🔖 Layout
 
