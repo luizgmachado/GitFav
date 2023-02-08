@@ -29,9 +29,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Essa aplicação busca perfils usando a API do GitHub, a ideia é você favoritar os usuários que mais gosta de acessar no #github , é possível remover e colocar outros, sendo necessário confirmar após aparecer a mensagem ao clicar no botão.
 
-- [Acesse o projeto finalizado, online](#)
+A proposta foi colocarmos em prática todos esses conceitos:
+
+- Consumo de API;
+- Orientação a objetos;
+- Manipulação da DOM;
+- Conceitos da POO;
+- Herança;
+- Polimorfismo;
+- Imutabilidade;
+- Método filter();
+- localStorage;
+- Async Await;
+- Try, catch e trow
+
+[Acesse o projeto finalizado, online](https://gitfavorit.netlify.app/)
 
 ## 🔖 Layout
 
